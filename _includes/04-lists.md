@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Some things I enjoy:
+- Learning new things
+- Reading
+- Puzzles
+- Hiking
+- Naps
